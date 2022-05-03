@@ -37,6 +37,6 @@ Accedere al terminale digitare:
 
 cd {percorso dove è situata la cartella VaxCenter }
 
-java -jar EmotionalMaps-1.0.jar
+java -jar VaxCenter.jar
 
 ***********************************************************************************
